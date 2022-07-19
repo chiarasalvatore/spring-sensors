@@ -14,6 +14,8 @@ metadata:
   links:
     - url: https://spring.io/
       title: Spring makes Java simple, modern, productive, reactive, cloud-ready
+  providesApis:
+    - sensors-api     
 spec:
   type: service
   lifecycle: experimental
