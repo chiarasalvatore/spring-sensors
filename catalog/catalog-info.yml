@@ -12,3 +12,4 @@ spec:
     - ./components/service/component.yml
     - ./systems/spring-sensors-system.yaml
     - ./apis/api.yml
+    - ./domains/domain.yml

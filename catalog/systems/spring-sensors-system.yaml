@@ -7,3 +7,4 @@ metadata:
     'backstage.io/techdocs-ref': dir:.
 spec:
   owner: team-spring-sensors-catalog
+  domain: demo-sensors-apps
