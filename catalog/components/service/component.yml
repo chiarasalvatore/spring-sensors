@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: spring-sensors-service
+  name: spring-sensors
   description: Spring Sensors Management Service
   tags:
     - spring
@@ -14,12 +14,13 @@ metadata:
   links:
     - url: https://spring.io/
       title: Spring makes Java simple, modern, productive, reactive, cloud-ready
-  providesApis:
-    - sensors-api     
+    
 spec:
   type: service
   lifecycle: experimental
   owner: team-spring-sensors-catalog
   system: spring-sensors-system
+  providesApis:
+    - sensors-api
   dependsOn:
     - Component:spring-sensors-catalog-management-rmq
