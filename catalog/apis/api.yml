@@ -9,3 +9,5 @@ spec:
   owner: team-spring-sensors-catalog
   definition:
     $text: ./api-docs.json
+  system: spring-sensors-system
+
