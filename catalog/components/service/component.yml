@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: spring-sensors
   description: Spring Sensors Management Service
+  namespace: dev
   tags:
     - spring
     - sensors
