@@ -3,6 +3,7 @@ kind: Location
 metadata:
   name: spring-sensors-rabbit
   description: Spring application managing sensors
+  namespace: dev
   annotations:
     'backstage.io/techdocs-ref': dir:.
 spec:
