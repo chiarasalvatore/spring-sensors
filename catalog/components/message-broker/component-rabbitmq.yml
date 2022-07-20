@@ -3,6 +3,7 @@ kind: Component
 metadata:
   name: spring-sensors-catalog-management-rmq
   description: Message Broker for Spring Sensors
+  namespace: dev
   tags:
     - sensors
     - messagebroker
