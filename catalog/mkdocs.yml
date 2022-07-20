@@ -1,4 +1,4 @@
-site_name: 'spring-sensors'
+site_name: 'spring-sensors-location'
 
 nav:
   - Home: index.md
