@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: spring-sensors-catalog-management-rmq
+  name: spring-sensors-rmq
   description: Message Broker for Spring Sensors
   tags:
     - sensors

@@ -22,4 +22,4 @@ spec:
   providesApis:
     - sensors-api
   dependsOn:
-    - Component:spring-sensors-catalog-management-rmq
+    - Component:spring-sensors-rmq
